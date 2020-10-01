@@ -340,7 +340,7 @@ strings?
 
 Remember that punctuation is important! Humans might be able to understand that
 "I love you Grandma" is close enough to "I love you, Grandma." and means the
-same thing but JavaScript will not consider these equal!
+same thing but JavaScript will not consider these equal.
 
 Good luck! When all tests are passing, be sure to run `learn submit`!
 
